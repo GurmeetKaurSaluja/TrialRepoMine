@@ -1,1 +1,0 @@
-require 'dm-rails/railtie'
